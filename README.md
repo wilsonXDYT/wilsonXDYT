@@ -1,12 +1,10 @@
-# jcdev
-Mi presentación. Trabajo en el bot [UPD Security](https://discord.updbot.com)
+# wilson
 
 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F359ANJ)
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/354178131680165888
-                            )](https://discord.com/users/354178131680165888)
+[![Discord Presence](https://lanyard.cnrad.dev/api/471327744169476096)](https://discord.com/users/471327744169476096)
 
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=jc-discdev&show_icons=true&theme=dark)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=wilsonXDYT&show_icons=true&theme=dark)
